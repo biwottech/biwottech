@@ -15,9 +15,10 @@
 ---
 
 #### 🛠️ About Me
+
 I love to dig into customer problems and solve them with modern technology. I create, scale, and optimize business portfolios that make an impact. My focus is on delivering key outcomes, building amazing teams, and quickly adapting to new learnings.
 
-- 🔭 Currently working on: [Laravel Todo application](https://github.com/biwottech/Todo-List)
+- 🔭 Currently working on: **Monitoring and Evaluation platform with AI capabilities**
 - 🌱 Currently learning: **Laravel** and **Firebase**
 - 💬 Ask me about: **MERN stack, MVC, and related technologies**
 - ⚡ Fun fact: I use tabs over spaces
@@ -87,7 +88,6 @@ I love to dig into customer problems and solve them with modern technology. I cr
 ## 🧰 Tech Stack
 
 <div align="center">
-  <!-- Frontend -->
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/>
@@ -97,7 +97,6 @@ I love to dig into customer problems and solve them with modern technology. I cr
   <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/>
-  <!-- Backend -->
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40"/>
@@ -105,7 +104,6 @@ I love to dig into customer problems and solve them with modern technology. I cr
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/>
-  <!-- DevOps -->
   <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40"/>
