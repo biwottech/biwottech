@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>💰 $10.00/hr | Open to remote opportunities</strong>
+  <strong>💰  Open to remote opportunities</strong>
 </p>
 
 ---
